@@ -7,7 +7,7 @@ DOCKER_UTILS_PUBLISH=${DOCKER_UTILS_PUBLISH:-YES}
 . "utils/funcs.sh"
 
 # Load variables
-MSYS_NO_PATHCONV=1 GET_ENV_VARS ".env"
+GET_ENV_VARS ".env"
 
 # Publish Images
 echo "Publishing $IMAGE_NAME - $IMAGE_VERSION"

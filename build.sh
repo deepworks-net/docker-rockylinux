@@ -6,7 +6,7 @@ DOCKER_UTILS_TAG_EM=${DOCKER_UTILS_TAG_EM:-YES}
 . "utils/funcs.sh"
 
 # Load variables
-MSYS_NO_PATHCONV=1 GET_ENV_VARS ".env"
+GET_ENV_VARS ".env"
 
 echo "Building $IMAGE_NAME - $IMAGE_VERSION"
 BTP_IMAGE --image-name "$IMAGE_NAME" \

@@ -4,14 +4,14 @@ This image is based on Docker RockyLinux and is used as a base image for many De
 Based on rockylinux:8.5 with any updates. That's it, plain and simple.
 
 ## Information
-[![Tags](https://img.shields.io/badge/deepworks/rockylinux-%20latest%20|%201%20|%201.0%20|%201.0.0%20-blue.svg)](https://hub.docker.com/r/deepworks/rockylinux/latest) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/deepworks/rockylinux/1.0.0) [![Built](https://img.shields.io/badge/Built-02/18/2022-blue.svg)](#)
+[![Tags](https://img.shields.io/badge/deepworks/rockylinux-%20latest%20|%201%20|%201.0%20|%201.0.1%20-blue.svg)](https://hub.docker.com/r/deepworks/rockylinux/latest) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/deepworks/rockylinux/latest) [![Built](https://img.shields.io/badge/Built-03/15/2022-blue.svg)](#)
 
 ## Security
-![Last Snyk Scan](https://img.shields.io/badge/Last%20Snyk%20Scan-02/18/2022-blue) ![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-0-brightgreen)
+![Last Snyk Scan](https://img.shields.io/badge/Last%20Snyk%20Scan-03/15/2022-blue) ![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-0-brightgreen)
 
 ## Dependencies
 [![RockyLinux Image](https://img.shields.io/badge/rockylinux-8.5-blue)](https://hub.docker.com/_/rockylinux)
-[![Docker Utility Scripts](https://img.shields.io/badge/docker%20utils-0.2.0--beta.rc2-blue)](https://github.com/deepworks-net/docker-utils)
+[![Docker Utility Scripts](https://img.shields.io/badge/docker%20utils-0.2.2--beta-blue)](https://github.com/deepworks-net/docker-utils)
 
 ## Quick Start
 
